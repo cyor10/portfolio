@@ -1,6 +1,6 @@
 import React from 'react'
 import Project from './Project'
-import projectsData from './projectsData'
+import projectsData from '../../data/projectsData'
 
 export default function Projects() {
     return (

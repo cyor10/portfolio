@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import Writer from './Writer'
-import SocialIcons from '../SocialIcons/SocialIcons';
+import SocialIcons from '../SocialIcons';
 import HomeTwo from './HomeTwo.jsx';
 
 export default function Home() {

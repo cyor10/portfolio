@@ -1,5 +1,5 @@
 import React from 'react'
-import { toolStack } from './stackData'
+import { toolStack } from '../../data/stackData'
 import StackCard from './StackCard'
 
 export default function ToolStack() {
