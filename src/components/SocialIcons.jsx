@@ -1,5 +1,5 @@
 import React from 'react'
-import social from './socialIconsData'
+import social from '../data/socialIconsData'
 import { motion } from 'framer-motion';
 
 export default function SocialIcons({ size }) {
